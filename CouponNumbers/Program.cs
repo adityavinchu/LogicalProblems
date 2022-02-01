@@ -31,6 +31,7 @@ namespace CouponNumbers
             }
             Console.Write("Total Numbers Needed to Generate {0} Unique coupans ", num);
             Console.WriteLine(ans);
+
         }
     }
 }
