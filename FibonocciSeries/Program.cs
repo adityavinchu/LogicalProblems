@@ -21,7 +21,6 @@ namespace FibonocciSeries
                     Console.Write(num3 + " ");
                     num1 = num2;
                     num2 = num3;
-                   
                 }
                 Console.ReadLine();
             }
